@@ -1,0 +1,22 @@
+{
+  "name": "third-angle-of-the-triangle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NachoR9/Third-angle-of-the-triangle.git"
+  },
+  "author": "Nacho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NachoR9/Third-angle-of-the-triangle/issues"
+  },
+  "homepage": "https://github.com/NachoR9/Third-angle-of-the-triangle#readme",
+  "dependencies": {
+    "vitest": "^1.6.0"
+  }
+}
